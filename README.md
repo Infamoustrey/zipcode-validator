@@ -1,4 +1,5 @@
 # Zip Code Data Validator
+> https://infamoustrey.github.io/zipcode-validator/
 
 A simple javascript site for visual inspection of zip code data
 
